@@ -13,7 +13,7 @@
 
 | week | Cource Contents | LectureNote | Date |  Video | 기타 |  
 |:---:|:---:|:---:|:---:|:---:|:---:| 
-| 1 | 수업 개요 |  | 2021.08.30 | [Youtube](https://youtu.be/J6hiz5zfDC0) | |
+| 1 | 수업 개요 | [PDF](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/LectureNote/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%80%E1%85%AA%E1%84%86%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%20I.pdf) | 2021.08.30 | [Youtube](https://youtu.be/J6hiz5zfDC0) | |
 | 1 | 범용SW와 인공지능SW |  | 2021.08.30 | [Youtube](https://youtu.be/mB_oGp8XaFM) | |
 | 1 | 생활 속 인공지능 |  | 2021.08.30 | [Youtube](https://youtu.be/71qSgfD3T2U) | |
 | 1 | 소프트웨어 교육, 길을 묻다 |  | 2021.08.30 | [Youtube](https://youtu.be/mtHz3BLsbw0) | |
