@@ -23,7 +23,7 @@
 | 보충 | 캐글 사용법 2부 | [PDF](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20MissingSemester_Kaggle_%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8.pdf)  | 2021.08.30 | [Youtube](https://youtu.be/4xlaycPT-hQ) | 대상: 기계학습 미이수자 | |
 | 2 | 인공지능 개론 1부 |  | 2021.09.06 | [Youtube](https://youtu.be/fXXvBmpQ0Aw) | | |
 | 2 | 인공지능 개론 2부 |  | 2021.09.06 | [Youtube](https://youtu.be/x3ynDSfZe5M) | | |
-| 2 | Teachable Machine |  | 2021.09.06 | [Youtube]() | | 과제: 나만의분류기만들기 |
+| 2 | Teachable Machine |  | 2021.09.06 | [Youtube](https://youtu.be/RWOhJ8IS0WA) | | 과제: 나만의분류기만들기 |
 
 
 
