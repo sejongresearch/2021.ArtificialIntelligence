@@ -4,7 +4,7 @@
 
 ## 수업정보
 - 수업방식: 비대면 녹화영상 & 슬랙통한 질의응답
-- 질의응답: [slack 사용](https://2021-artificialintelligence.slack.com)
+- 질의응답: [slack 사용](https://2021-class-ai.slack.com)
 
 ## 강의계획서
 - 수업시간: 001반 월/수(15:00-16:30) / 002반 월/수(16:30-18:00) 
