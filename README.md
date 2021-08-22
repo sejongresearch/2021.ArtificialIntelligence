@@ -25,7 +25,6 @@
 
 
 ## 보충자료
-- 기계학습 미 이수자
 
 | week | Cource Contents | LectureNote | Date |  Video | 기타 | 
 |:---:|:---:|:---:|:---:|:---:|:---:|
