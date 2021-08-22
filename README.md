@@ -20,9 +20,10 @@
 | 2 | 인공지능 개론 1부 | [PDF](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/LectureNote/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%5B%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%5D%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%20%E1%84%80%E1%85%A2%E1%84%85%E1%85%A9%E1%86%AB%201%E1%84%87%E1%85%AE%2C%202%E1%84%87%E1%85%AE.pdf) | 2021.09.06 | [Youtube](https://youtu.be/fXXvBmpQ0Aw) | | 
 | 2 | 인공지능 개론 2부 |  | 2021.09.06 | [Youtube](https://youtu.be/x3ynDSfZe5M) | | 
 | 2 | Teachable Machine | [PDF](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/LectureNote/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%5B%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%5D%20%E1%84%82%E1%85%A1%E1%84%86%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B4%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%E1%84%80%E1%85%B5%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5%201%E1%84%87%E1%85%AE.pdf) | 2021.09.06 | [Youtube](https://youtu.be/XEWLQBNrLCU) | 마감: 9/12 <br> 과제: [나만의분류기만들기](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/HW/Readme.md) |
-| 3 | 선형회귀 이론 1부 |  | 2021.09.13 | [Youtube](https://youtu.be/CdApDRkhWzY) | | 
-| 3 | 선형회귀 이론 2부 |  | 2021.09.13 | [Youtube](https://youtu.be/losgNpja0bQ) | | 
+| 3 | 선형회귀 이론 |  | 2021.09.13 | [Youtube](https://youtu.be/j6ALcv08DuE) | | 
 | 3 | 선형회귀 실습 |  | 2021.09.13 | [Youtube](https://youtu.be/-t4pME31keo) | 마감: 9/19 <br> 과제 | 
+| 4 | 선형분류 이론 |  | 2021.09.20 | [Youtube](https://youtu.be/h8kt6q5kx30) | | 
+| 4 | 선형분류 실습 |  | 2021.09.20 | [Youtube]() | 마감: 9/26 <br> 과제 | 
 
 
 
