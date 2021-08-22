@@ -23,7 +23,9 @@
 | 3 | 선형회귀 이론 |  | 2021.09.13 | [Youtube](https://youtu.be/j6ALcv08DuE) | | 
 | 3 | 선형회귀 실습 |  | 2021.09.13 | [Youtube](https://youtu.be/-t4pME31keo) | 마감: 9/19 <br> 과제 | 
 | 4 | 선형분류 이론 |  | 2021.09.20 | [Youtube](https://youtu.be/h8kt6q5kx30) | | 
-| 4 | 선형분류 실습 |  | 2021.09.20 | [Youtube]() | 마감: 9/26 <br> 과제 | 
+| 4 | 선형분류 실습 |  | 2021.09.20 | [Youtube](https://youtu.be/jpvPseZs3e0) | 마감: 9/26 <br> 과제 | 
+| 5 | 모델학습 이론 |  | 2021.09.27 | [Youtube](https://youtu.be/SJ4qWDMSb50) |  | 
+| 5 | 퍼셉트론 이론 |  | 2021.09.27 | [Youtube](https://youtu.be/EntSMbkJXKY) |  | 
 
 
 
