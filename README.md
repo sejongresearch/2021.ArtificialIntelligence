@@ -27,7 +27,7 @@
 | 5 | 모델학습 이론 |  | 2021.09.27 | [Youtube](https://youtu.be/SJ4qWDMSb50) |  | 
 | 5 | 퍼셉트론 이론 |  | 2021.09.27 | [Youtube](https://youtu.be/EntSMbkJXKY) | 마감: 10/03 <br> 과제 | 
 | 6 | 심층신경망 이론 |  | 2021.10.04 | [Youtube](https://youtu.be/IPa5ggikifQ) |  | 
-| 6 | 심층신경망  |  | 2021.10.04 | [Youtube](https://youtu.be/f8Ks0pNlSfo) | 마감: 10/10 <br> 과제 | 
+| 6 | 심층신경망 실습 |  | 2021.10.04 | [Youtube](https://youtu.be/f8Ks0pNlSfo) | 마감: 10/10 <br> 과제 | 
 
 
 
