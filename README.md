@@ -36,7 +36,11 @@
 | 7 | 심층신경망 II 실습 |  | 2021.10.11 | [Youtube](https://youtu.be/wD0gM7RHU_o) | 마감: 10/17 <br> 과제 | 
 | 7 | 퀴즈 1 |  | 2021.10.11 | | 시험: 10/11 오후 7-9시 | 
 | 8 | 중간고사 |  | 2021.10.18 | | 시험: 10/18 오후 7-10시 | 
-
+| 9 | 합성곱신경망 I (이론) |  | 2021.10.25 | [Youtube](https://youtu.be/Tqt_T6OpvEo) | | 
+| 10 | 합성곱신경망 I (실습) |  | 2021.11.01 | [Youtube](https://youtu.be/E44ZC45xNto) | | 
+| 10 | 합성곱신경망 I (실습) |  | 2021.11.01 | [Youtube](https://youtu.be/kFVP-Sx9ln4) | | 
+| 11 | 합성곱신경망 II (이론) |  | 2021.11.08 | [Youtube](https://youtu.be/cM94cK6N21g) | | 
+| 11 | 합성곱신경망 II (실습) |  | 2021.11.08 | [Youtube](https://youtu.be/fKxzA9qoknQ) | | 
 
 
 ## 보충자료
