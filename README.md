@@ -49,6 +49,7 @@
 | 10 | 합성곱신경망 I (실습) |  | 2021.11.01 | [Youtube](https://youtu.be/kFVP-Sx9ln4) | 실습 마감: 10/31 <br> [실습문제](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/HW/Readme.md)  | 
 | 11 | 합성곱신경망 II (이론) |  | 2021.11.08 | [Youtube](https://youtu.be/cM94cK6N21g) | | 
 | 11 | 합성곱신경망 II (실습) |  | 2021.11.08 | [Youtube](https://youtu.be/fKxzA9qoknQ) | 실습 마감: 11/07 <br> [실습문제](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/HW/Readme.md)  | 
+| 대회 | 세종 인공지능 챌린지 | | 2021.11.08 | 수상시 가점** | [대회일정](https://github.com/SejongAI-Challenge/2021.AI.Challenge) |
 | 12 | 순환신경망 |  | 2021.11.15 | TBA | 실습 마감: 11/14 <br> [실습문제](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/HW/Readme.md)  | 
 | 13 | 순환신경망 |  | 2021.11.22 | TBA | 실습 마감: 11/21 <br> [실습문제](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/HW/Readme.md)  | 
 | 14 | 순환신경망 |  | 2021.11.29 | TBA | 텀프 마감: 12/03 & 12/05 <br> [텀프](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/HW/Readme.md) | 
