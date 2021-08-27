@@ -60,8 +60,9 @@
 
 | week | Cource Contents | LectureNote | Date |  Video | 기타 | 
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 보충 | 파이썬 복습 |  | 2021.08.30 | [추천강의1](https://www.boostcourse.org/cs114) <br> [추천강의2](https://www.boostcourse.org/ai222) | | 
 | 보충 | 코랩 사용법 | [PDF](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20MissingSemester_Colab.pdf)  | 2021.08.30 | [Youtube](https://youtu.be/NUb1Nyz6BuI) | | 
 | 보충 | 캐글 사용법 1부 | [PDF](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20MissingSemester_Kaggle_%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf) | 2021.08.30 | [Youtube](https://youtu.be/raEi_cPfoLU) |  | 
 | 보충 | 캐글 사용법 2부 | [PDF](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20MissingSemester_Kaggle_%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8.pdf)  | 2021.08.30 | [Youtube](https://youtu.be/4xlaycPT-hQ) | | 
+| 보충 | 캐글 리더보드 만들기 |  [PDF](https://github.com/SejongAI-Challenge/2020.AI.Challenge/blob/master/%E1%84%8F%E1%85%A2%E1%84%80%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%84%87%E1%85%A9%E1%84%83%E1%85%B3%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5.pdf) | 2021.08.27 | [Youtube](https://youtu.be/g1STw4M8MNY) | | 
+
 
