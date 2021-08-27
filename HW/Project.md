@@ -1,8 +1,5 @@
 
-
-## 2020년도 인공지능 텀프로젝트 리스트
-- 참고용으로 제공되며 해당 주제와 중복은 허용하지않음
-- https://github.com/sejongresearch/2020.Spring.AI/blob/master/TermProject.md
+# 2021년도 인공지능 프로젝트 - 나만의 미니챌린지 
 
 ## 프로젝트의 목적
 - (1) 인공지능으로 해결할 수 있는 사회 문제를 정의하고, 
@@ -63,4 +60,8 @@
 - 캐글 리더보드만 제출하고 베이스라인 코드나 설명 동영상을 제출하지 않을 떄: 0점 처리
 - 차후, 동료간 코드카피 적발시 건당 감점 5점
 
+
+## 2020년도 인공지능 텀프로젝트 리스트
+- 참고용으로 제공되며 해당 주제와 중복은 허용하지않음
+- https://github.com/sejongresearch/2020.Spring.AI/blob/master/TermProject.md
 
