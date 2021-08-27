@@ -9,7 +9,7 @@
 
 ## 수업정보
 - 수업방식: 비대면 녹화영상 & 슬랙통한 질의응답 / 오프라인 수업시간 스터디 그룹 운영 (희망자)
-- 질의응답: [slack 사용](https://2021-class-ai.slack.com)
+- 질의응답: [slack 사용](https://join.slack.com/t/2021-class-ai/shared_invite/zt-up6xtdxv-mXBpsAxck02nkMUYGtFT5g)  <= 입장하세요. 
 
 ## 시험정보
 - 퀴즈 1: 2021년 10월 11일(월) 오후 7시 - 9시 / 온라인 시험 / 실습 / 중간고사 시험 연습
