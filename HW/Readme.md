@@ -1,4 +1,13 @@
 ## 인공지능 과제 모듬
+
+
+### [과제0] 파이썬 이수증 제출
+- 마감 : 9월 5일 오후 11시 59분
+- 제출처 : admin@rcv.sejong.ac.kr / 이메일 제목: [인공지능][과제0] 파이썬 이수증 제출 (학번) 
+- 지난학기 기계학습을 통해 이수한 파이썬 이수증 제출 가능
+- [강의] [모두를위한프로그램: 파이썬](https://www.edwith.org/pythonforeverybody), [파이썬 자료구조](https://www.edwith.org/python-data/)
+
+
 ### [과제1] Teachable Machine 을 이용한 나만의 분류기 만들기 [[PDF](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/LectureNote/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%5B%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%5D%20%E1%84%82%E1%85%A1%E1%84%86%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B4%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%E1%84%80%E1%85%B5%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5%202%E1%84%87%E1%85%AE.pdf)]
 - 마감 : 9월 12일 오후 11시 59분
 - 제출자료 : 발표 PPT, 5분 내외 발표 동영상, Youtube 링크 (자신의 발표영상 링크) 
