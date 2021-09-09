@@ -38,7 +38,7 @@
 - 마감: 9월 26일 오후 11시 59분
 - 제출자료: 노트북 파일 (.ipynb) 공유 (담당조교계정: juyounghong, ) 
 - 제출: 캐글 리더보드
-- 문제: [당뇨병 유무 예측 문제](https://www.kaggle.com/t/642b2946359a4cd885708885ceda4f6c) / [작물 종류 예측 문제]()
+- 문제: [당뇨병 유무 예측 문제](https://www.kaggle.com/t/642b2946359a4cd885708885ceda4f6c) / [작물 종류 예측 문제](https://www.kaggle.com/t/30e56ed6b81042118a72c93791698b00)
 - 조교: 홍주영TA, 황유진TA
 - 평가: 베이스라인 넘으면 Pass
 
