@@ -51,7 +51,7 @@
   - [주의] 캐글 리더보드는 마감시간에 맞춰 Close 되며, 리더보드 제출 성능 기록이 함께 남아 있는 캐글 노트북 파일만 기안 내 제출한 것으로 인정 합니다.   
 - 담당조교: 홍주영TA, 황유진TA
 - 해설 영상과 코드 
-  - 당뇨병 유무 예측 문제 [해설영상](), [코드]()
+  - 당뇨병 유무 예측 문제 [해설영상](https://youtu.be/zEDWFIxc9pQ), [코드](https://www.kaggle.com/juyounghong/2021-ai-w4-p1-solution)
   - 작물 종류 예측 문제 [해설영상](https://youtu.be/mVQNXne4svQ), [코드](https://www.kaggle.com/yujinhwang/2021-ai-w4-p2-solution)
 
 ### [5주차-실습] 선형분류 II
@@ -63,7 +63,7 @@
   - [주의] 캐글 리더보드는 마감시간에 맞춰 마감되며, 캐글 노트북 파일에 리더보드 제출 성능 기록이 함께 남아 있는 파일만 기안 내 제출한 것으로 합니다.   
 - 조교: 홍주영TA, 김지원TA,
 - 해설 영상과 코드 
-  - MNIST를 활용한 손글씨 인식 문제 [해설영상](), [코드]()
+  - MNIST를 활용한 손글씨 인식 문제 [해설영상](https://youtu.be/9iCJURKIprI), [코드](https://www.kaggle.com/juyounghong/2021-ai-w5-p1-solution-2)
 
 ### [6주차-실습] 심층신경망 II
 - 마감: 10월 10일 오후 11시 59분
