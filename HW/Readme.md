@@ -38,7 +38,7 @@
   - [주의] 캐글 리더보드는 마감시간에 맞춰 Close 되며, 리더보드 제출 성능 기록이 함께 남아 있는 캐글 노트북 파일만 기안 내 제출한 것으로 인정 합니다.   
 - 해설 영상과 코드 
   - [김지원TA] 양배추가격예측문제 [해설영상](https://youtu.be/FoWBXY5-RCE), [코드](https://www.kaggle.com/kjwdubu/2021-ai-w3-p1-solution)
-  - [신정민TA] 자동차가격예측문제 [해설영상](), [코드]()
+  - [신정민TA] 자동차가격예측문제 [해설영상](https://youtu.be/gr0sGBmkS4U), [코드](https://www.kaggle.com/sjmin99/3-q2-solution-code)
 
 
 ### [4주차-실습] 선형분류 I
