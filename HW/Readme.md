@@ -49,8 +49,8 @@
 - 제출자료: 캐글 노트북 공유 **담당조교 캐글계정으로 공유**  (담당조교계정: juyounghong, yujinhwang) 
   - [주의] 캐글 리더보드는 마감시간에 맞춰 Close 되며, 리더보드 제출 성능 기록이 함께 남아 있는 캐글 노트북 파일만 기안 내 제출한 것으로 인정 합니다.   
 - 해설 영상과 코드 
-  - [홍주영TA] 당뇨병 유무 예측 문제 [해설영상](https://youtu.be/zEDWFIxc9pQ), [코드](https://www.kaggle.com/juyounghong/2021-ai-w4-p1-solution)
-  - [황유진TA] 작물 종류 예측 문제 [해설영상](https://youtu.be/mVQNXne4svQ), [코드](https://www.kaggle.com/yujinhwang/2021-ai-w4-p2-solution)
+  - [홍주영TA] 당뇨병 유무 예측 문제 [해설영상](), [코드]()
+  - [황유진TA] 작물 종류 예측 문제 [해설영상](), [코드]()
 
 ### [5주차-실습] 선형분류 II
 - 마감: 10월 03일 오후 11시 59분
