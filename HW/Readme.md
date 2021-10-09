@@ -60,7 +60,7 @@
 - 제출자료: 캐글 노트북 공유 **담당조교 캐글계정으로 공유** (담당조교계정: juyounghong, kjwdubu) 
   - [주의] 캐글 리더보드는 마감시간에 맞춰 마감되며, 캐글 노트북 파일에 리더보드 제출 성능 기록이 함께 남아 있는 파일만 기안 내 제출한 것으로 합니다.   
 - 해설 영상과 코드
-  - [홍주영TA] 손글씨인식문제 [코드](https://www.kaggle.com/juyounghong/2021-ai-w5-p1-solution-3)
+  - [홍주영TA] 손글씨인식문제 [해설영상](https://youtu.be/ppgdccO0TrQ), [코드](https://www.kaggle.com/juyounghong/2021-ai-w5-p1-solution-3)
 
 ### [6주차-실습] 심층신경망 II
 - 마감: 10월 10일 오후 11시 59분
