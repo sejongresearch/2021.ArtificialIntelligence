@@ -49,6 +49,7 @@
 - 제출자료: 캐글 노트북 공유 **담당조교 캐글계정으로 공유**  (담당조교계정: juyounghong, yujinhwang) 
   - [주의] 캐글 리더보드는 마감시간에 맞춰 Close 되며, 리더보드 제출 성능 기록이 함께 남아 있는 캐글 노트북 파일만 기안 내 제출한 것으로 인정 합니다.   
 - 해설 영상과 코드
+  - [홍주영TA] 당요병유뮤예측문제 [해설영상](https://youtu.be/zEDWFIxc9pQ), [코드](https://www.kaggle.com/juyounghong/2021-ai-w4-p1-solution) 
   - [황유진TA] 작물종류예측문제 [해설영상](https://youtu.be/rNq9AVQt3F4), [코드](https://www.kaggle.com/yujinhwang/2021-ai-w4-p2-solution)
 
 
