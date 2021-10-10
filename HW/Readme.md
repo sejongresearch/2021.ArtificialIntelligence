@@ -74,7 +74,6 @@
   - [한다챈TA] 원자력 발전소 상태 판단 
   - [김형준TA] 태양광 발전량 예측 문제 [해설영상](https://youtu.be/xbJfGmjyvd0), [코드](https://www.kaggle.com/c/2021-ai-w6-p2/code)
 
-https://www.kaggle.com/c/2021-ai-w6-p2/code
 
 ### [7주차-실습] 심층신경망 II
 - 마감: 10월 17일 오후 11시 59분
