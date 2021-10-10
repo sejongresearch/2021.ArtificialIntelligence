@@ -63,14 +63,18 @@
 - 해설 영상과 코드
   - [홍주영TA] 손글씨인식문제 [해설영상](https://youtu.be/ppgdccO0TrQ), [코드](https://www.kaggle.com/juyounghong/2021-ai-w5-p1-solution-3)
 
-### [6주차-실습] 심층신경망 II
+### [6주차-실습] 심층신경망 I
 - 마감: 10월 10일 오후 11시 59분
 - 문제: [원자력 발전소 상태 판단](https://www.kaggle.com/c/2021-ai-w6-p1/overview) / [태양광 발전량 예측 문제](https://www.kaggle.com/t/036141376ee74905b1c3bef6d2a2faba)
 - 평가: 베이스라인 넘으면 Pass (*중간고사 기말고사를 위해 모델 성능을 높이는 방법을 다양하게 연습해 보시길 권장함)
 - 답안제출: 캐글 리더보드
 - 제출자료: 캐글 노트북 파일 (.ipynb) **담당조교 캐글계정으로 공유** (담당조교계정: daechanhan, hyeongjun0117) 
   - [주의] 캐글 리더보드는 마감시간에 맞춰 Close 되며, 리더보드 제출 성능 기록이 함께 남아 있는 캐글 노트북 파일만 기안 내 제출한 것으로 인정 합니다.   
-- 조교: 한대찬TA, 김형준TA
+- 해설 영상과 코드
+  - [한다챈TA] 원자력 발전소 상태 판단 
+  - [김형준TA] 태양광 발전량 예측 문제 [해설영상](https://youtu.be/xbJfGmjyvd0), [코드](https://www.kaggle.com/c/2021-ai-w6-p2/code)
+
+https://www.kaggle.com/c/2021-ai-w6-p2/code
 
 ### [7주차-실습] 심층신경망 II
 - 마감: 10월 17일 오후 11시 59분
