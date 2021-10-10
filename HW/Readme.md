@@ -71,7 +71,7 @@
 - 제출자료: 캐글 노트북 파일 (.ipynb) **담당조교 캐글계정으로 공유** (담당조교계정: daechanhan, hyeongjun0117) 
   - [주의] 캐글 리더보드는 마감시간에 맞춰 Close 되며, 리더보드 제출 성능 기록이 함께 남아 있는 캐글 노트북 파일만 기안 내 제출한 것으로 인정 합니다.   
 - 해설 영상과 코드
-  - [한다챈TA] 원자력 발전소 상태 판단 
+  - [한다챈TA] 원자력 발전소 상태 판단 [코드](https://www.kaggle.com/c/2021-ai-w6-p1/code)
   - [김형준TA] 태양광 발전량 예측 문제 [해설영상](https://youtu.be/xbJfGmjyvd0), [코드](https://www.kaggle.com/c/2021-ai-w6-p2/code)
 
 
