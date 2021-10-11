@@ -133,4 +133,13 @@
 - 제출처 : admin@rcv.sejong.ac.kr / 이메일 제목: [인공지능][텀프] 미니챌린지 발표자료 (학번) 
 
 
+## 담당 조교 캐글 계정
+- 김지원 (kjwdubu) 
+- 김태주 (xown3197)
+- 김형준 (hyeongjun0117)
+- 조원 (jowoen)
+- 한대찬 (daechanhan)
+- 신정민 (sjmin99)
+- 황유진 (yujinhwang)
+- 홍주영 (juyounghong)
 
