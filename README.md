@@ -65,7 +65,7 @@
 | 12 | 순환신경망 |  | 2021.11.15 | TBA | 실습 마감: 11/14 <br> [실습문제](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/HW/Readme.md)  | 
 | 13 | 순환신경망 |  | 2021.11.22 | TBA | 실습 마감: 11/21 <br> [실습문제](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/HW/Readme.md)  | 
 | 14 | 순환신경망 |  | 2021.11.29 | TBA | 텀프 마감: 12/03 & 12/05 <br> [텀프](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/HW/Readme.md) | 
-| 15 | 프로젝트 발표 |  | 2021.12.06 |  | [텀프설명서](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/HW/Project.md) | 
+| 15 | 프로젝트 발표 |  | 2021.12.06 |  | [가이드라인](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/HW/Project.md) | 
 | 16 | 기말고사 | [고사 주의사항](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/LectureNote/ExamManual.md) | 2021.12.13 |  | 시험: 12/13 오후 7-10시 | 
 
 
