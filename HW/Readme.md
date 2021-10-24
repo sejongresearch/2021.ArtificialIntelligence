@@ -94,6 +94,7 @@
 - 제출처: admin@rcv.sejong.ac / 이메일 제목: [인공지능] 중간고사 다시풀기 (학번) 
 
 ### [9주차-미니챌린지 프로포절]
+- [텀프 설명](https://github.com/sejongresearch/2021.ArtificialIntelligence/blob/main/HW/Project.md) 
 - 마감: 10월 31일 오후 11시 59분
 - 제출: 디팬스 게임 제안서 제출
   - 즉, 주제 및 데이터 확보 및 가공 방안 제출
