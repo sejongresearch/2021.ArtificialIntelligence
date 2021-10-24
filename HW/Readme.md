@@ -86,6 +86,12 @@
   - [김지원TA] DNN을 이용한 MNIST 손글씨 분류 [해설영상](https://www.youtube.com/watch?v=4ubpSO9YPIo), [코드](https://www.kaggle.com/kjwdubu/2021-ai-w7-p1-solution-2)
   - [김태주TA] 날씨 및 유동인구에 따른 교통량 추이 [해설영상](https://youtu.be/d99pLBw1aEg), [코드](https://www.kaggle.com/xown3197/base-code)
 
+
+### [9주차-중간고사 다시풀기]
+- 마감: 10월 31일 오후 11시 59분
+- 제출자료: 베이스라인 성능 찍은 캡쳐 사진
+- 제출처: admin@rcv.sejong.ac / 이메일 제목: [인공지능] 중간고사 다시풀기 (학번) 
+
 ### [9주차-미니챌린지 프로포절]
 - 마감: 10월 31일 오후 11시 59분
 - 제출: 디팬스 게임 제안서 제출
