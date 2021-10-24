@@ -40,7 +40,7 @@
     - 데이터의 재 가공(문제 출제의 의도를 가지고)은 허용되나 그냥 가져다 쓸 경우(이미 누군가 가공한 train/test 데이터 그대로) 5점 감점 됩니다. 
     - 종료된 인공지능 챌린지 대회의 경우 discussion 보드 혹은 인터넷 블로그를 통해 코드가 공유되고 있어 동료들로 부터 리더보드 공격을 받기 쉽습니다. 종료된 대회의 경우 활용하지 않거나 "데이터를 재 가공"하여 사용하는 것을 추천합니다.
    - 주제는 선착순 입니다. 동일 데이터 / 동일 주제가 발생하지 않도록 구글 시트에 작성된 시간을 기준으로 먼저 주제를 확정한 학생에게 우선권을 부여합니다.
-     - [주제 선정 구글 시트 바로가기]( https://docs.google.com/spreadsheets/d/1K6vkl17Hs0b39uLWVwbJwNQ-PlY9JVCEbb4tPAjp0GU/edit?usp=sharing )
+     - [주제 선정 구글 시트 바로가기](https://docs.google.com/spreadsheets/d/1K6vkl17Hs0b39uLWVwbJwNQ-PlY9JVCEbb4tPAjp0GU/edit#gid=0)
  
 
 ### 평가 기준: (+)
