@@ -88,6 +88,7 @@
 
 
 ### [9주차-중간고사 다시풀기]
+- 해설영상: https://www.youtube.com/watch?v=1h4bHHMrqoc&list=PL1xKqHsVFgvligkJALqnn-Ax9S2juhj3w
 - 마감: 10월 31일 오후 11시 59분
 - 제출자료: 베이스라인 성능 찍은 캡쳐 사진
 - 제출처: admin@rcv.sejong.ac / 이메일 제목: [인공지능] 중간고사 다시풀기 (학번) 
