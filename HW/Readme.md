@@ -107,6 +107,9 @@
 - 문제: [MNIST 손글시 분류](https://www.kaggle.com/t/974bd3f76b11400c9c6863e9e6cda08e), [CIFAR 영상 분류](https://www.kaggle.com/t/2afc1dad710a4222a9206e842bf9fef2) (두 문제 중 하나만 풀어도 제출 완료 처리 함)
 - 리더보드 링크 : TBA (담당자 조원TA, 황유진TA )
 - 평가: 베이스라인 넘으면 Pass
+- 해설 영상과 코드
+  - [조원TA] 사전학습된 DNN을 이용한 MNIST 손글씨 분류 [해설영상](https://youtu.be/_ghZgw_Wc1I), [코드](https://www.kaggle.com/jowoen/2021-2-10-1-baseline-code)
+  - [황유진TA] CNN을 이용한 CIFAR 10 영상 분류 해설영상, 코드
 
 ### [11주차-실습] 합성곱신경망
 - 마감: 11월 14일 오후 11시 59분
