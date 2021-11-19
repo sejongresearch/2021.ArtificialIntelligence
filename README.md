@@ -65,7 +65,7 @@
 | 12 | 텀프 집중기간 | 3단계 & 4단계 |  |  | 3단계: 11.15-11.17 <br> 4단계: 11.18-11.21 | 
 | 13 | 순환신경망 |  | 2021.11.22 | TBA | 실습 마감: 11/28 <br> [실습문제](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/HW/Readme.md)  | 
 | 14 | 순환신경망 |  | 2021.11.29 | TBA | 실습 마감: 12/03 <br> [실습문제](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/HW/Readme.md)  | 
-| 15 | 프로젝트 발표 |  | 2021.12.06 | 텀프 마감: 12/03 & 12/05 | [가이드라인](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/HW/Project.md) | 
+| 15 | 프로젝트 발표 |  | 2021.11.29| 텀프 마감: 11/28 | [가이드라인](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/HW/Project.md) | 
 | 16 | 기말고사 | [고사 주의사항](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/LectureNote/ExamManual.md) | 2021.12.13 |  | 시험: 12/13 오후 7-10시 | 
 
 
