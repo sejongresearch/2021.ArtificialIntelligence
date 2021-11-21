@@ -69,6 +69,16 @@
 | 15 | 기말고사 | [고사 주의사항](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/LectureNote/ExamManual.md) | 2021.12.06 |  | 시험: 12/06 오후 7-10시 | 
 
 
+## 텀프로젝트
+| 단계 | 미션 | 영상링크 | 기타 | 
+|:--:|:--:|:--:|:--:|
+| 1 | 제안서 | | | 
+| 2 | 문제출제 | | | 
+| 3 | 1차공격 | [playlist](https://www.youtube.com/playlist?list=PL1xKqHsVFgvm8BovPKL-lhQtrhw3SV0j9) | | 
+| 4 | 디팬스 | [playlist](https://www.youtube.com/playlist?list=PL1xKqHsVFgvm93bHMBs-3CLHlijBF8sOi) | |
+| 5 | 2차공격 | | | 
+
+
 ## 보충자료
 
 | week | Cource Contents | LectureNote |  Video | 기타 | 
