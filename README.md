@@ -63,9 +63,9 @@
 | 11 | 합성곱신경망 II (실습) | [실습1](https://colab.research.google.com/drive/1ufVXTVUMldHHrPo0-a7dTbNHlrHIz8ll?usp=sharing) <br> [실습2](https://colab.research.google.com/drive/1OOjVGe6GoIc02dj0KZwVtqTcxcl4hoB9?usp=sharing) <br> [실습3](https://colab.research.google.com/drive/1zyDIZ4SytI1d_dkleKEd_Ik8QIl--Yd5?usp=sharing) | 2021.11.08 | [Youtube](https://youtu.be/fKxzA9qoknQ) | 실습 마감: 11/14 <br> [실습문제](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/HW/Readme.md) <br> 텀프 2단계 마감: 11/14  | 
 | 11 | 세종 인공지능 챌린지 | [참가신청](https://do.sejong.ac.kr/ko/program/all/view/1761)| 2021.11.08 | 수상시 가점** | [대회일정](https://github.com/SejongAI-Challenge/2021.AI.Challenge) |
 | 12 | 텀프 집중기간 | 3단계 & 4단계 |  |  | 3단계: 11.15-11.17 <br> 4단계: 11.18-11.21 | 
-| 13 | 역전파 (이론) |  | 2021.11.22 |  |   | 
+| 13 | 역전파 (이론) |  | 2021.11.22 | [Youtube](https://youtu.be/l9ix-y36smU) |   | 
 |    | 프로젝트 최종발표 |  | 2021.11.29| 텀프 마감: 11/28 | [가이드라인](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/HW/Project.md) | 
-| 14 | 인공지능 HW/SW |  | 2021.11.29 |  | | 
+| 14 | 인공지능 HW/SW |  | 2021.11.29 | [Youtube](https://youtu.be/b8JkQieeRiQ) | | 
 | 15 | 기말고사 | [고사 주의사항](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/LectureNote/ExamManual.md) | 2021.12.06 |  | 시험: 12/06 오후 7-10시 | 
 
 
