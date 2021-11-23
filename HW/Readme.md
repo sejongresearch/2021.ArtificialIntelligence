@@ -118,6 +118,8 @@
 - 문제: [Caltech101 영상 분류](https://www.kaggle.com/t/03b82366ff7845179223d663c7eb5513), [음성 데이터를 통한 감정 분류](https://www.kaggle.com/t/91c3d8b1a99849adaf18bbb5144141c8) (두 문제 중 하나만 풀어도 제출 완료 처리 함)
 - 리더보드 링크 : TBA (담당자 한대찬TA, 신정민TA )
 - 평가: 베이스라인 넘으면 Pass
+- 해설 영상과 코드
+  - [신정민TA]  음성데이터를 통한 감정 분류 [해설영상](https://youtu.be/wUsgYf7bVGo), [코드](https://www.kaggle.com/c/21-ai-w11-p2/code)
 
 ### [11주차-미니챌린지 시작]
 - 마감: 11월 14일 오후 11시 59분
