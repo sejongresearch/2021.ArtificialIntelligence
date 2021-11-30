@@ -119,6 +119,7 @@
 - 리더보드 링크 : TBA (담당자 한대찬TA, 신정민TA )
 - 평가: 베이스라인 넘으면 Pass
 - 해설 영상과 코드
+  - [한대찬TA]  Caltech101 영상 분류       [해설영상](https://youtu.be/R0Pu1URoWUQ)  [코드](https://www.kaggle.com/daechanhan/baselinecode-w11-p1)
   - [신정민TA]  음성데이터를 통한 감정 분류 [해설영상](https://youtu.be/wUsgYf7bVGo), [코드](https://www.kaggle.com/c/21-ai-w11-p2/code)
 
 ### [11주차-미니챌린지 시작]
