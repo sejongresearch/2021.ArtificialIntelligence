@@ -91,3 +91,5 @@
 | 보충 | 온라인시험 가이드라인 | X | [Youtube](https://www.youtube.com/watch?v=XHSnsZbv9g4)| | 
 
 
+## 참고자료
+- 본 수업은 김성훈 교수님의 모두의 딥러닝 자료를 활용하고 있음을 밝힙니다.
